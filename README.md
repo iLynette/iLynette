@@ -1,7 +1,7 @@
 ### Hello there, I'm Lynette 👋
 
 <img
-src="./LYNETTE ACHOLAH.png"></img>
+src="./LYNETTE ACHOLAH.png" width="100%"></img>
 
  🔭 I’m on the roadmap to becoming a full-stack software developer, at [Microverse inc](https://www.microverse.org/). My passion lies in coming up with great ideas and building something out of those ideas, as well as translating people's ideas into tangible solutions
 - 🌱 I’m working on getting good at JavaScript.
