@@ -2,8 +2,7 @@
 
 <img
 src="./LYNETTE ACHOLAH.png" width="100%"></img>
-
- Here are some ideas to get you started:
+>I enjoy learning programming languages and working in a collaborative environment
 
 - 🔭 I’m currently working on web development skills
 - 🌱 I’m currently learning Ruby on Rails
