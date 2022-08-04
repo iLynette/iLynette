@@ -7,7 +7,7 @@ src="./LYNETTE ACHOLAH.png" width="100%"></img>
 - 🔭 I’m currently working on web development skills
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on open source and group projects
-- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/lynette-acholah/"></a> <a target="_blank"
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lynette-acholah/">LinkedIn</a>
 - ⚡ Fun fact: Humans are the only animals that blush
 
 
