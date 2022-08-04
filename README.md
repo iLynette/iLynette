@@ -3,8 +3,13 @@
 <img
 src="./LYNETTE ACHOLAH.png" width="100%"></img>
 
- 🔭 I’m on the roadmap to becoming a full-stack software developer, at [Microverse inc](https://www.microverse.org/). My passion lies in coming up with great ideas and building something out of those ideas, as well as translating people's ideas into tangible solutions
-- 🌱 I’m working on getting good at JavaScript.
+ Here are some ideas to get you started:
+
+- 🔭 I’m currently working on web development skills
+- 🌱 I’m currently learning Ruby on Rails
+- 👯 I’m looking to collaborate on open source and group projects
+- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/lynette-acholah/"></a> <a target="_blank"
+- ⚡ Fun fact: Humans are the only animals that blush
 
 
 ### Languages & Frameworks.
